@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "PbqZz9GhLqE=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\func\\RiskLevelApp.Tests\\RiskLevelApp.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'coverlet.collector (>= 6.0.2)' for 'net9.0'.",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\func\\RiskLevelApp.Tests\\RiskLevelApp.Tests.csproj",
+      "filePath": "C:\\Users\\DELL\\Desktop\\func\\RiskLevelApp.Tests\\RiskLevelApp.Tests.csproj",
+      "libraryId": "coverlet.collector",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Test.Sdk (>= 17.12.0)' for 'net9.0'.",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\func\\RiskLevelApp.Tests\\RiskLevelApp.Tests.csproj",
+      "filePath": "C:\\Users\\DELL\\Desktop\\func\\RiskLevelApp.Tests\\RiskLevelApp.Tests.csproj",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'xunit (>= 2.9.2)' for 'net9.0'.",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\func\\RiskLevelApp.Tests\\RiskLevelApp.Tests.csproj",
+      "filePath": "C:\\Users\\DELL\\Desktop\\func\\RiskLevelApp.Tests\\RiskLevelApp.Tests.csproj",
+      "libraryId": "xunit",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'xunit.runner.visualstudio (>= 2.8.2)' for 'net9.0'.",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\func\\RiskLevelApp.Tests\\RiskLevelApp.Tests.csproj",
+      "filePath": "C:\\Users\\DELL\\Desktop\\func\\RiskLevelApp.Tests\\RiskLevelApp.Tests.csproj",
+      "libraryId": "xunit.runner.visualstudio",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
